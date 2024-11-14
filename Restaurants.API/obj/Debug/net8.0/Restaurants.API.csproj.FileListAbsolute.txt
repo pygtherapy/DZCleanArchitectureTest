@@ -23,3 +23,10 @@ C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\ob
 C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\Restaurants.API.pdb
 C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\Restaurants.API.genruntimeconfig.cache
 C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\ref\Restaurants.API.dll
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\bin\Debug\net8.0\Restaurants.Application.dll
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\bin\Debug\net8.0\Restaurants.Domain.dll
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\bin\Debug\net8.0\Restaurants.Application.pdb
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\bin\Debug\net8.0\Restaurants.Domain.pdb
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\Restaurants.API.csproj.AssemblyReference.cache
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\Restaurants.API.sourcelink.json
+C:\Users\DustyZoland\Documents\GitHub\DZCleanArchitectureTest\Restaurants.API\obj\Debug\net8.0\Restaurants.API.csproj.CopyComplete
